@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/navigation_select_country"
+        android:icon="@drawable/ic_select_country"
+        android:title="@string/title_select_country" />
+
+    <item
+        android:id="@+id/navigation_current_location"
+        android:icon="@drawable/ic_current_location"
+        android:title="@string/title_current_location" />
+
+    <item
+        android:id="@+id/navigation_scan_nearby"
+        android:icon="@drawable/ic_scan_nearby"
+        android:title="@string/title_scan_nearby" />
+
+</menu>

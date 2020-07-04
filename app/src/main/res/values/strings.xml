@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">CoronaApp</string>
+    <string name="title_select_country">Select Country</string>
+    <string name="title_current_location">Current Location</string>
+    <string name="title_scan_nearby">Scan Nearby</string>
+    <string name="date">Date</string>
+    <string name="confirmed">Confirmed</string>
+    <string name="recovered">Recovered</string>
+    <string name="deaths">Deaths</string>
+    <string name="empty_status_list_message">There is no data for those selected dates</string>
+    <string name="no_location_message">Your location cannot be determined at this time</string>
+    <string name="current_location_details_message">The information is up to date from yesterday in: %s</string>
+    <string name="bluetooth_disabled_message">Bluetooth is not enabled by your device</string>
+    <string name="empty_bluetooth_list_message">There are no bluetooth devices around you</string>
+    <string name="bluetooth_detected_message">There is %s infected person with MAC address around you</string>
+    <string-array name="countries">
+        <item>Italy</item>
+        <item>Germany</item>
+        <item>Spain</item>
+    </string-array>
+</resources>
